@@ -2,7 +2,7 @@
 
 2018 Summer Internship at Chennai Mathematical Institute (CMI), Chennai,  Tamil Nadu, India 
 
-Guide: Dr. K. V. Subrahmanyam
+Guide: Dr. K. V. Subrahmanyam, CMI
 
 This project aims to build an Generative Adversial Network (GAN) to generate and classify western classical music created by piano notes. 
 
