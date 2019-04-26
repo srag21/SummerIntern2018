@@ -4,8 +4,4 @@
 
 Guide: Dr. K. V. Subrahmanyam, CMI
 
-This project aims to build an Generative Adversial Network (GAN) to generate and classify western classical music created by piano notes. 
-
-Given a few starting notes as input, an RNN(the generator) generates a sequence of notes which are labelled by a (pre-trained) classifier(the discriminator) with an accuracy of about 94%.  
-
-This repository consists of the processed and unprocessed version of test/training data for the classifier,and code for training the classifier and the neural network.  
+This project consists of a classifier to differentiate between genuine and randomly generated sequences of western classical piano notes. 
